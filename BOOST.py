@@ -212,10 +212,7 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/5.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/6.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/7.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/8.txt"
+            "https://github.com/Ferilimitless/BOOST/blob/main/approval.txt"
         ]
         
         key_found = False
